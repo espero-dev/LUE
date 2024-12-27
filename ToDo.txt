@@ -1,0 +1,3 @@
+[-] emulation [kernel, time, networking, processing, threading, basic ios functions]
+[-] audio/sound system
+[#} gui
